@@ -281,6 +281,9 @@
     height: 100px;
 
 }
+.header{
+    margin-bottom: 40px;
+}
 
 .header-logo-area {
     padding-top: 20px;
@@ -337,7 +340,29 @@
 
 /* End Header */
 
+.site-content-right-title a{
+    color: #674D32;
+    font-size: 34px;
+    padding-left: 0;
+    text-decoration: none;
+}
 
+.rightSection{
+    margin-left: 10%;
+    
+}
+ul.right-list-item {
+    list-style: none;
+    padding-left: 0;
+}
+
+    ul.right-list-item a {
+        font-size: 18px;
+        /* font-weight: bold; */
+        color: #BEA385;
+        text-decoration: none;
+        line-height: 40px;
+    }
 
 
 /* Footer Start*/
