@@ -741,17 +741,15 @@ input:focus, textarea:focus {
 }
 .site-content-right-title a{
     color: #674D32;
-    font-size: 22px;
+    font-size: 34px;
     padding-left: 0;
     text-decoration: none;
 }
 
 .rightSection{
-    margin-left: 80%;
-    margin-top: -135%;
-    position: sticky;
-    top: 10px;
-    width: 250px;
+    margin-left: 75%;
+    margin-top: -133%;
+  
 
     
 }
@@ -765,7 +763,7 @@ ul.right-list-item {
         /* font-weight: bold; */
         color: #674D32;
         text-decoration: none;
-        line-height: 35px;
+        line-height: 40px;
     }
 
     .site-top-header {
@@ -787,6 +785,7 @@ ul.right-list-item {
         align-items: center;
         text-align: center;
         font-feature-settings: 'tnum' on, 'lnum' on;
+        
     }
     
     .header-site-justify-right {
@@ -795,8 +794,8 @@ ul.right-list-item {
     
     .header-logo_icon {
         margin-left: 15px;
-        margin-bottom: 10px;
-        width: 70px;
+        margin-bottom: 15px;
+        width: 150px;
     }
     .header-site-categories-area a{
         text-decoration:none;
