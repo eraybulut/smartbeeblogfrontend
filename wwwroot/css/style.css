@@ -212,6 +212,7 @@
 .form-header{
     color:#000000;
     margin-left:30px;
+    margin-bottom: 10px;
 
 
 }
@@ -222,25 +223,27 @@
     width: 60%;
     height:80%;
     position: center;
-
-
 }
 
 .Submit-Button{
-    width: 80%;
+    width: 50%;
     height: 50px;
+    margin-top: 15px;
     border: 0;
     border-radius: 2px;
     color: white;
     background: #674D32;
     border: 1px solid #674D32;
-    margin-left:30px;
+    margin-left: 240px;
+   
+}
+.form-group{
+    display: flex;
+    margin-bottom:15px;
 }
 
 .form-group label {
-    width: 100%;
-    margin-left:30px;
-
+    width: 20%;
 }
 
 .form-group input {
@@ -254,7 +257,7 @@
     justify-content: center;
     left: 30px;
     border: 1px solid #E0E0E0;
-    margin-left:30px;
+  
 }
 
 .searchButton{
